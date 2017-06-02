@@ -1,0 +1,11 @@
+com/ganesh/demo/models/Organization.class
+com/ganesh/demo/repository/DepartmentRepository.class
+com/ganesh/demo/Services/OrganizationService.class
+com/ganesh/demo/Services/DepartmentService.class
+com/ganesh/demo/models/Department.class
+com/ganesh/demo/Services/EmployeeService.class
+com/ganesh/demo/repository/EmployeeRepository.class
+com/ganesh/demo/models/Employee.class
+com/ganesh/demo/Configuration/JpaConfiguration.class
+com/ganesh/demo/repository/OrganizationRepository.class
+com/ganesh/demo/controllers/GenericController.class
